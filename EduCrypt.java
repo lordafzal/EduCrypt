@@ -874,7 +874,7 @@ class AES {
 //    }
 }
 
-public class CryptoSystem {
+public class EduCrypt {
 
 
 
